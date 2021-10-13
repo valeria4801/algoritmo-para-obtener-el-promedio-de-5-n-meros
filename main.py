@@ -1,49 +1,26 @@
-python 3.7.10 packaged by conda-forge (defaul)
-oct 5 2021, 17:08:41
-gcc 9.4.0 con linux
-Type "help" , "copyright" , "credits"  or "license filter"
-or more information
->>> frase "estamo>
->>> frase "estamos en la clase de programacion de tercero B"
->>> type (frase) 
-<class "str>"
->>> cali1 =9.5
->>> type (cali1)
-<class "float">
->>> cali2 =10
->>> type (cali2)
-<class "int>"
->>>17>8
-False
->>> maxima-cali=10
->>>9 == maxima-cali1false
->>>10== maxima-cali1
-True
->>> respuesta =10 === maxima-cali
->>> respuesta
-True
->>> 5+4
-9
->>> 5.0+4.0
-9.0
->> 9-4
-5
->>> 9.5-4
-5.5
->>>8+7
-56
->>> 8.5+0.5
-4.25
->>> 9/3
-3.0
->>>9/4
-file <stidin> line 1
-9/4
-IndentationError:unexpected IndentationError
->>> 9/4
-2.25
->>> residuo=9%4
->>>res
-residuo respuesta
->>> residuo
-1
+#este programa calcula  el año en el que la persona puederetirarse del trabajo
+#13 de octubre de 2021
+#Autor :Valeria Rodriguez
+
+#1. inicio
+#2 Definir año - actual = 2021
+anio-actual =2021
+#3 Imprimir "Cual es tu  edad"
+print ("Cual es tu edad))
+#4 Hacer edad-actual = entrada  del usuario
+edad_actual =int (input)
+#5 Imprimir "A que edad  deseas retirare"
+print ("A que edad deseas retirarte")
+#6 Hacer edad_ retiro = entrada del usuiario
+edad_ de _ retiri=intro (input)
+#7 Hacer años para retiro= edad retiro
+edad_ actual
+anios_ para_ retiro= edad _  de _   retiro = edad_ actual
+años para retiro
+anio_ de_ retiro= anio _ actual + anios _ para _ retiro
+# 9. Imprimir "tienes" años_ para retiro de que te puedas retirar
+print("tienes" ) anios_para _ retiro, " años antes de que te puedas retirar)"
+#10 Imprimir lo podras hacer en el año de retiro
+print("Lo podras hacer en el año)")
+anio_ de _ retiro
+#11 FIN. 
